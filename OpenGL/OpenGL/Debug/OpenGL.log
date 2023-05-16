@@ -1,3 +1,5 @@
 ﻿  OpenGL.cpp
-D:\COLLECTIONSSS\PS TEST\OpenGL\OpenGL\OpenGL.cpp(139,23): warning C4018: '<': signed/unsigned mismatch
-  OpenGL.vcxproj -> D:\COLLECTIONSSS\PS TEST\OpenGL\Debug\OpenGL.exe
+D:\3D-Game-Snake-OpenGL-\OpenGL\OpenGL\OpenGL.cpp(122,23): warning C4018: '<': signed/unsigned mismatch
+  stdafx.cpp
+  Generating Code...
+  OpenGL.vcxproj -> D:\3D-Game-Snake-OpenGL-\OpenGL\Debug\OpenGL.exe
