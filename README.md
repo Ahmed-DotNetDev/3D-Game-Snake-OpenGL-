@@ -7,6 +7,7 @@
 Define the snake's position and movement: Create a data structure to represent the snake, such as an array or linked list of segments. Each segment should have position and direction information.
 
 <strong>Create the game world:</strong> Set up the 3D environment by defining the boundaries and obstacles of the game world. This can be done using simple geometric shapes like cubes or custom models.
+  
 <strong>Implement user input:</strong> Capture user input to control the snake's movement. Use keyboard inputs to change the direction of the snake.
 Render the snake and game objects: Use OpenGL functions to render the snake and other game objects in 3D. You can use basic geometric shapes or textured models to represent the snake and objects.
 
