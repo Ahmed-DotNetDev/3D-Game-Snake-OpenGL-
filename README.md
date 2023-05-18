@@ -18,3 +18,15 @@ Update the game logic: Update the position and movement of the snake based on us
 Add game features: Implement additional features such as scoring, power-ups, levels, and game over conditions. Enhance the gameplay to make it engaging and challenging.
 Game loop: Set up a game loop that continuously updates the game logic, handles user input, and renders the scene. This ensures smooth gameplay and real-time response.
 </p>
+
+# How to play a game
+<p>
+  1-press 's' to start the game 'e' to end it
+  
+  2-to move the snake press directions up , down , left , right arrows
+  
+  3-when you eat a food the snake will be begger and you will get more scores
+  
+  4-if the snake head hit it's body it will die and move the game to the first screen
+</p>
+
