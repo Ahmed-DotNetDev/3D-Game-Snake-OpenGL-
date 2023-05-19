@@ -1,7 +1,7 @@
 # 3D-Game-Snake-OpenGL-
 <p>3D Game Snake OpenGL With C++ OpenGL</p>
 
-# Idea of game 
+# Idea of game 💡
 <p>
 <strong>Set up the environment:</strong> Initialize the OpenGL context and set up the window for rendering.
 Define the snake's position and movement: Create a data structure to represent the snake, such as an array or linked list of segments. Each segment should have position and direction information.
