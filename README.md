@@ -19,7 +19,7 @@ Add game features: Implement additional features such as scoring, power-ups, lev
 Game loop: Set up a game loop that continuously updates the game logic, handles user input, and renders the scene. This ensures smooth gameplay and real-time response.
 </p>
 
-# How to play a game
+# How to play a game ✍️
 <p>
   1-press 's' to start the game 'e' to end it
   
