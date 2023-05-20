@@ -32,6 +32,14 @@ Game loop: Set up a game loop that continuously updates the game logic, handles 
   5-the snake speed is increase when pass specified levels
 </p>
 
+# References i used to improve my skills in OpenGl
+
+  <p>http://www.opengl-tutorial.org/beginners-tutorials/tutorial-1-opening-a-window/#building-the-tutorials</p>
+  <p>https://www.cprogramming.com/tutorial/opengl_introduction.html</p>
+  <p>https://www.geeksforgeeks.org/getting-started-with-opengl/</p>
+  <p>https://www3.ntu.edu.sg/home/ehchua/programming/opengl/HowTo_OpenGL_C.html</p>
+
+
 # Video show 🎮
 
 https://github.com/Ahmed-DotNetDev/3D-Game-Snake-OpenGL-/assets/118932313/ea37e254-8c5e-4fae-a7ba-1a381c504de9
