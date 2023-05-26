@@ -1,5 +1,10 @@
-# 3D-Game-Snake-OpenGL-
+# 3D-Game-Snake-OpenGL
 <p>3D Game Snake OpenGL With C++ OpenGL</p>
+
+# Technologies used ⚙
+<p>C++</p>
+
+<p>Built-in library</p>
 
 # Idea of game 💡
 <p>
